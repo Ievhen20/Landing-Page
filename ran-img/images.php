@@ -1,0 +1,1 @@
+document.write('<p><a href=\"/ssd-hosting\" target=\"_blank\"><img src=\"./ran-img/speed22.jpg\" width=\"450\" height=\"350\" alt=\"Fastest SSD Website Hosting Services\" class=\"img-responsive pb-5\"></a></p>')
